@@ -25,5 +25,9 @@ public class demoTest2 {
 	public void testGmail3(){
 		System.out.println("Just check in my code in git");
 	}
+	@Test
+	public void gitchanges(){
+		System.out.println("Just change in my code in git");
+	}
 
 } 
