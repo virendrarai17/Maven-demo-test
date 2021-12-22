@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Maven Suite" duration-ms="29896" started-at="2018-11-22T19:12:44Z" finished-at="2018-11-22T19:13:13Z">
+    <groups>
+    </groups>
+    <test name="Test Maven Testing" duration-ms="29896" started-at="2018-11-22T19:12:44Z" finished-at="2018-11-22T19:13:13Z">
+      <class name="com.qa.test.demoTest2">
+        <test-method status="PASS" signature="testFB2()[pri:0, instance:com.qa.test.demoTest2@2a2d45ba]" name="testFB2" duration-ms="0" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFB2 -->
+        <test-method status="PASS" signature="testGmail2()[pri:0, instance:com.qa.test.demoTest2@2a2d45ba]" name="testGmail2" duration-ms="0" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmail2 -->
+      </class> <!-- com.qa.test.demoTest2 -->
+      <class name="com.qa.test.demoTest1">
+        <test-method status="PASS" signature="testFB1()[pri:0, instance:com.qa.test.demoTest1@7c16905e]" name="testFB1" duration-ms="1" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFB1 -->
+        <test-method status="PASS" signature="testGmail1()[pri:0, instance:com.qa.test.demoTest1@7c16905e]" name="testGmail1" duration-ms="1" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmail1 -->
+      </class> <!-- com.qa.test.demoTest1 -->
+      <class name="com.qa.test.loginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.loginTest@675d3402]" name="setUp" is-config="true" duration-ms="15521" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getFreeCrmTitleTest()[pri:0, instance:com.qa.test.loginTest@675d3402]" name="getFreeCrmTitleTest" duration-ms="27" started-at="2018-11-23T00:42:59Z" finished-at="2018-11-23T00:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFreeCrmTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.loginTest@675d3402]" name="tearDown" is-config="true" duration-ms="454" started-at="2018-11-23T00:42:59Z" finished-at="2018-11-23T00:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.loginTest@675d3402]" name="setUp" is-config="true" duration-ms="13420" started-at="2018-11-23T00:43:00Z" finished-at="2018-11-23T00:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getLogoTest()[pri:0, instance:com.qa.test.loginTest@675d3402]" name="getLogoTest" duration-ms="130" started-at="2018-11-23T00:43:13Z" finished-at="2018-11-23T00:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.loginTest@675d3402]" name="tearDown" is-config="true" duration-ms="290" started-at="2018-11-23T00:43:13Z" finished-at="2018-11-23T00:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.loginTest -->
+      <class name="com.qa.test.demoTest">
+        <test-method status="PASS" signature="testFB()[pri:0, instance:com.qa.test.demoTest@6d00a15d]" name="testFB" duration-ms="12" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFB -->
+        <test-method status="PASS" signature="testGmail()[pri:0, instance:com.qa.test.demoTest@6d00a15d]" name="testGmail" duration-ms="1" started-at="2018-11-23T00:42:44Z" finished-at="2018-11-23T00:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmail -->
+      </class> <!-- com.qa.test.demoTest -->
+    </test> <!-- Test Maven Testing -->
+  </suite> <!-- Test Maven Suite -->
+</testng-results>
