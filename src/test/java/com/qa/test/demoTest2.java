@@ -20,4 +20,10 @@ public class demoTest2 {
 		int a=100;
 		int b=260;
 		Assert.assertEquals(360, a+b);
-}} 
+}
+	@Test
+	public void testGmail3(){
+		System.out.println("Just check in my code in git");
+	}
+
+} 
